@@ -1,5 +1,6 @@
 # 💫 About Me:
-Aspiring Java Software Developer <br>Skilled in Java, C, Python <br>Expertise in SQL, Excel <br>Passionate about Generative AI <br>SCCE Student <br>Java Fullstack Trainee at Codegnan
+Aspiring Java Software Developer <br>Skilled in Java, C,Html ,CSS, Bootstrap, Javascript.
+<br>Expertise in SQL, Excel <br>Passionate about Generative AI <br>SCCE Student <br>Java Fullstack Trainee at Codegnan
 
 
 ## 🌐 Socials:
